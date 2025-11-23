@@ -1,0 +1,17 @@
+﻿Build started 11/22/2025 5:58:30 PM.
+     1>Project "C:\Users\Kirill\Desktop\TEST\Eco.Lab2_TEST\Eco.CalculatorD\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorD.vcxproj" on node 3 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Eco.CalculatorD\DynamicRelease\Eco.CalculatorD.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Eco.CalculatorD\DynamicRelease\Eco.CalculatorD.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\HeaderFiles /I..\..\..\SharedFiles /I..\..\..\..\..\Lesson02\Eco.CalculatorA\SharedFiles /I..\..\..\..\..\Lesson03\Eco.CalculatorB\SharedFiles /IC:\Users\Kirill\Desktop\TEST\Eco.Framework\Eco.Core1\SharedFiles /IC:\Users\Kirill\Desktop\TEST\Eco.Framework\Eco.MemoryManager1\SharedFiles /IC:\Users\Kirill\Desktop\TEST\Eco.Framework\Eco.InterfaceBus1\SharedFiles /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D ECO_WINDOWS /D ECO_WIN32 /D NDEBUG /D ECO_X86_32 /D _WINDOWS /D ECO_DLL /D UGUID_UTILITY /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Eco.CalculatorD\DynamicRelease\\" /Fd"Eco.CalculatorD\DynamicRelease\vc100.pdb" /Gz /TC /analyze- /errorReport:prompt ..\..\..\SourceFiles\CEcoCalculatorD.c ..\..\..\SourceFiles\CEcoCalculatorDFactory.c
+         CEcoCalculatorD.c
+     1>C:\Users\Kirill\Desktop\TEST\Eco.Lab2_TEST\Eco.CalculatorD\HeaderFiles\CEcoCalculatorD.h(24): fatal error C1083: Cannot open include file: 'IEcoCalculatorX.h': No such file or directory
+         CEcoCalculatorDFactory.c
+     1>C:\Users\Kirill\Desktop\TEST\Eco.Lab2_TEST\Eco.CalculatorD\HeaderFiles\CEcoCalculatorD.h(24): fatal error C1083: Cannot open include file: 'IEcoCalculatorX.h': No such file or directory
+     1>Done Building Project "C:\Users\Kirill\Desktop\TEST\Eco.Lab2_TEST\Eco.CalculatorD\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorD.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.50

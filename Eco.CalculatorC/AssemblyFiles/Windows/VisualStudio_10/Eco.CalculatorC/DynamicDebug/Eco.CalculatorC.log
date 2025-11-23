@@ -1,0 +1,18 @@
+﻿Build started 23.11.2025 17:14:24.
+     1>Project "C:\Users\Valeriy\Downloads\Eco.Lab3-main\Eco.CalculatorC\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorC.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Eco.CalculatorC\DynamicDebug\Eco.CalculatorC.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(990,5): warning MSB8012: TargetPath(C:\Users\Valeriy\Downloads\Eco.Lab3-main\Eco.Lab1\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorC\DynamicDebug\4828F6552E4540E78121EBD220DC360E.dll) does not match the Linker's OutputFile property value (C:\Users\Valeriy\Downloads\Eco.Lab3-main\Eco.CalculatorC\BuildFiles\Windows\x86\DynamicDebug\4828F6552E4540E78121EBD220DC360E.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         All outputs are up-to-date.
+         Eco.CalculatorC.vcxproj -> C:\Users\Valeriy\Downloads\Eco.Lab3-main\Eco.Lab1\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorC\DynamicDebug\4828F6552E4540E78121EBD220DC360E.dll
+       FinalizeBuildStatus:
+         Deleting file "Eco.CalculatorC\DynamicDebug\Eco.CalculatorC.unsuccessfulbuild".
+         Touching "Eco.CalculatorC\DynamicDebug\Eco.CalculatorC.lastbuildstate".
+     1>Done Building Project "C:\Users\Valeriy\Downloads\Eco.Lab3-main\Eco.CalculatorC\AssemblyFiles\Windows\VisualStudio_10\Eco.CalculatorC.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
